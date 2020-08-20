@@ -1,8 +1,12 @@
 {
   "name": "react_rails_demo",
   "private": true,
+  "scripts": {
+    "build:css": "tailwind build app/assets/stylesheets/application.scss -o app/assets/stylesheets/dist/output.scss"
+  },
   "dependencies": {
     "@babel/preset-react": "^7.10.4",
+    "@krisaenz/brikit-tailwind": "^1.2.0",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
@@ -10,17 +14,18 @@
     "autoprefixer": "^9.8.6",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "jquery": "^3.5.1",
+    "postcss-loader": "^3.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
+    "tailwind-nord": "^1.1.0",
     "tailwindcss": "^1.6.2",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
   "devDependencies": {
     "postcss-cli": "^7.1.1",
-    "postcss-loader": "^3.0.0",
     "webpack-dev-server": "^3.11.0"
   }
 }

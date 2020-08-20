@@ -23,6 +23,7 @@ export default () => (
         <span>Download</span>
       </button>
       <button className="brikit-blue">This is Brikit</button>
+      <button className="bg-nord0">This is Nord Plugin</button>
     </section>
   </div>
 );
