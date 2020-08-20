@@ -904,10 +904,10 @@
     postcss "7.0.32"
     purgecss "^2.3.0"
 
-"@krisaenz/brikit-tailwind@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@krisaenz/brikit-tailwind/-/brikit-tailwind-1.1.0.tgz#e91d439ed2bd3824b85e084864cec725abf4684d"
-  integrity sha512-q2EzILyAvW7aukhfEu7INdB5UcQdDyBMuj2rY3swz88ybf0o3qUCrJgdT8PErce3aa7l1pOFYW5/RTPqVF0hvA==
+"@krisaenz/brikit-tailwind@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@krisaenz/brikit-tailwind/-/brikit-tailwind-1.2.0.tgz#1209edf41f73908b44fbbb438391a11b9b3ecbf1"
+  integrity sha512-ALhv8XLfonLGnkLwxJWSPzlVYA2nSvZNp7glivuEzGsm3VkVmGWdLAA38A/5gR2STyyEyafANUOF6wsMKobzaw==
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
