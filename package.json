@@ -17,6 +17,7 @@
     "postcss-loader": "^3.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
+    "react-color": "^2.18.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "tailwind-nord": "^1.1.0",
